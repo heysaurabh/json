@@ -1,29 +1,31 @@
-[
-  {
-    "address": "100 Sample Avenue",
-    "city": "Montreal",
-    "state": "QC",
-    "zipCode": "11011",
-    "siteId": "1",
-    "name": "Site One",
-    "Alert": true
-  },
-  {
-    "address": "2 Example Road",
-    "city": "Montreal",
-    "state": "QC",
-    "zipCode": "22022",
-    "siteId": "2",
-    "name": "Site Two",
-    "Alert": false
-  },
-  {
-    "address": "3000 Rue Ouest",
-    "city": "Montreal",
-    "state": "QC",
-    "zipCode": "33033",
-    "siteId": "3",
-    "name": "Site Three",
-    "Alert": true
-  }
-]
+{
+  "siteData": [
+    {
+      "address": "100 Sample Avenue",
+      "city": "Montreal",
+      "state": "QC",
+      "zipCode": "11011",
+      "siteId": "1",
+      "name": "Site One",
+      "Alert": true
+    },
+    {
+      "address": "2 Example Road",
+      "city": "Montreal",
+      "state": "QC",
+      "zipCode": "22022",
+      "siteId": "2",
+      "name": "Site Two",
+      "Alert": false
+    },
+    {
+      "address": "3000 Rue Ouest",
+      "city": "Montreal",
+      "state": "QC",
+      "zipCode": "33033",
+      "siteId": "3",
+      "name": "Site Three",
+      "Alert": true
+    }
+  ]
+}
